@@ -8,7 +8,7 @@ Daniel
 2. Last name
 Tan
 3. Favourite animal
-Shark
+Sharks & banana
 
 Now click the green 'commit changes' button at the bottom.
 
